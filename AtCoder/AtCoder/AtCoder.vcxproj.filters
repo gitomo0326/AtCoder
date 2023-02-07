@@ -13,5 +13,16 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="ソース ファイル\BeginnerContest">
+      <UniqueIdentifier>{95204b4a-cd03-4dee-9f8c-e5a2b35c88d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ソース ファイル\BeginnerContest\288">
+      <UniqueIdentifier>{b55aa63d-0c2e-4299-b967-0f22104f38fc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A.cpp">
+      <Filter>ソース ファイル\BeginnerContest\288</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
