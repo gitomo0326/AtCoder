@@ -14,14 +14,14 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="ソース ファイル\BeginnerContest">
-      <UniqueIdentifier>{95204b4a-cd03-4dee-9f8c-e5a2b35c88d6}</UniqueIdentifier>
+      <UniqueIdentifier>{68d3efb0-07b4-40f0-a480-e43b191740df}</UniqueIdentifier>
     </Filter>
     <Filter Include="ソース ファイル\BeginnerContest\288">
-      <UniqueIdentifier>{b55aa63d-0c2e-4299-b967-0f22104f38fc}</UniqueIdentifier>
+      <UniqueIdentifier>{b5570c46-9504-4f7e-abe1-59fa3cc497fd}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A.cpp">
+    <ClCompile Include="BeginnerContest\288\B.cpp">
       <Filter>ソース ファイル\BeginnerContest\288</Filter>
     </ClCompile>
   </ItemGroup>
